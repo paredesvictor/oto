@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 0.0, 43.0, 1920.0, 989.0 ],
+		"rect" : [ 1690.0, 253.0, 227.0, 593.0 ],
 		"openinpresentation" : 1,
 		"gridsize" : [ 15.0, 15.0 ],
 		"toolbars_unpinned_last_save" : 15,
@@ -100,10 +100,11 @@
 						}
 ,
 						"classnamespace" : "box",
-						"rect" : [ 0.0, 43.0, 1920.0, 989.0 ],
+						"rect" : [ 1693.0, 899.0, 224.0, 136.0 ],
 						"openinpresentation" : 1,
 						"gridsize" : [ 15.0, 15.0 ],
 						"toolbars_unpinned_last_save" : 15,
+						"visible" : 1,
 						"boxes" : [ 							{
 								"box" : 								{
 									"comment" : "",
@@ -125,8 +126,8 @@
 									"numoutlets" : 0,
 									"patching_rect" : [ 32.0, 84.0, 150.0, 34.0 ],
 									"presentation" : 1,
-									"presentation_linecount" : 3,
-									"presentation_rect" : [ 31.0, 59.0, 121.0, 48.0 ],
+									"presentation_linecount" : 2,
+									"presentation_rect" : [ 31.0, 59.0, 178.0, 34.0 ],
 									"text" : "OU changer la limite avec les flèches du clavier"
 								}
 
@@ -9247,7 +9248,7 @@
 													"numoutlets" : 1,
 													"outlettype" : [ "" ],
 													"patching_rect" : [ 298.196582019329071, 553.8461594581604, 89.0, 22.0 ],
-													"text" : "0"
+													"text" : "0."
 												}
 
 											}
@@ -15025,6 +15026,8 @@
 													"saved_object_attributes" : 													{
 														"autostart" : 1,
 														"defer" : 0,
+														"node_bin_path" : "",
+														"npm_bin_path" : "",
 														"watch" : 0
 													}
 ,
